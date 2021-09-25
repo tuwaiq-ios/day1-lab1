@@ -1,13 +1,13 @@
 # week1-day1-lab2 
 
-##Topics
+#Topics
 1. Xcode setup 
 
-##Description
+#Description
 Setup Xcode in your PC, create a simple project that display your name in the screen.
 
-##Points
+#Points
 Each
 
-##DeadLine 
+#DeadLine 
 5:00 PM, 26/9/2021
