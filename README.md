@@ -5,6 +5,7 @@
 
 ## Description
 Setup Xcode in your PC, create a simple project that display your name in the screen.
+upload your work in Github
 
 ## Points
 Each
