@@ -1,13 +1,13 @@
-# week1-day1-lab2 
+# Week1 Day1 Lab2: Your Name
 
 ## Topics
 1. Xcode setup 
 
 ## Description
-Setup Xcode in your PC, create a simple project that display your name in the screen. Then, upload your work in Github
-
-## Points
-Each
+1. Setup Xcode on your Mac
+2. Create a new project
+3. Display your name on the screen
+4. Upload to this repo as a PR
 
 ## DeadLine 
-5:00 PM, 26/9/2021
+Sunday 26 September
