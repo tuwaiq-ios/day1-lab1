@@ -4,8 +4,7 @@
 1. Xcode setup 
 
 ## Description
-Setup Xcode in your PC, create a simple project that display your name in the screen.
-/n upload your work in Github
+Setup Xcode in your PC, create a simple project that display your name in the screen. Then, upload your work in Github
 
 ## Points
 Each
