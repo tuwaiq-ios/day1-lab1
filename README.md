@@ -12,11 +12,14 @@
 ## DeadLine 
 Sunday 26 September
 
-## steps to upload your work on GitHub
-1. create account in GitHub with your name
-2. go to https://github.com/tuwaiq-ios/week1-day1-lab1
-3. Fork this repository into your GitHub account by clicking the fork button 
-4. clone the fork of your repository buy writting this command in the terminal (git clone "copy the code of your repository")
-5. make edits to your local cloned copy of the repository on your computer 
-6. add, commit and push those edits back to your fork on GitHub account by using these command (git add . / git commnit -m "this is the first lab" / git push )
-7. pull request to the Tuwaiq-ios repository using the command (git pull-request)
+## Steps to upload your work on GitHub
+1. Create account in GitHub with your real name (MohammedAlkamdi)
+3. Fork this repo into your GitHub account by clicking the fork button 
+4. Clone the repo (from your account after forking it)
+  `git clone "put the link of your repository"`
+5. Add the Xcode project to the repo folder after cloning it
+6. Then create a new copy usning:
+    - `git add .`
+    - `git commit -m "Some message"`
+    - `git push`
+7. Create pull request to the tuwaiq-ios repository from GitHub website
