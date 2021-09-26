@@ -23,3 +23,7 @@ Sunday 26 September
     - `git commit -m "Some message"`
     - `git push`
 7. Create pull request to the tuwaiq-ios repository from GitHub website
+
+## Resources 
+1. Git & GitHub
+- https://github.com/Tuwaiq-NET01/git01
