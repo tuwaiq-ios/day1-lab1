@@ -16,7 +16,7 @@ Sunday 26 September
 1. Create account in GitHub with your real name (MohammedAlkamdi)
 3. Fork this repo into your GitHub account by clicking the fork button 
 4. Clone the repo (from your account after forking it)
-  `git clone "put the link of your repository"`
+    - `git clone "put the link of your repository"`
 5. Add the Xcode project to the repo folder after cloning it
 6. Then create a new copy usning:
     - `git add .`
