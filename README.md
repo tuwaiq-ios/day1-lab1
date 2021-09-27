@@ -1,4 +1,4 @@
-# Week1 Day1 Lab2: Your Name
+# Week1 Day1 Lab1: Your Name
 
 ## Topics
 1. Xcode setup 
